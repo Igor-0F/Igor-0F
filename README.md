@@ -1,7 +1,6 @@
 ### Olá, me chamo Igor Oliveira. Sou Desenvolvedor e maluco por tecnologia !
 
 
-
 - 🔭 Estou trabalhando como Front - End Developer.
 - 🌱 Continuo meus estudos em Front - End
  e me aventurando em outros frameworks.
@@ -9,7 +8,6 @@
 <div align="center">
  <a href="https://github.com/Igor-0F">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Igor-0F&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-0F&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div style="inline_block" align="center"><br>

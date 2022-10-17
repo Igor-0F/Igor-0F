@@ -8,6 +8,7 @@
 <div align="right">
  <a href="https://github.com/Igor-0F">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Igor-0F&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-0F&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  <div style="inline_block" align="left"><br>
